@@ -1,4 +1,4 @@
-#PGCBMP
+# PGCBMP
 
 Originally by John Elliott, 13 November 2004
 
