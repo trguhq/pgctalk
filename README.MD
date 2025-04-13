@@ -1,6 +1,7 @@
 # PGCBMP
 
-Originally by John Elliott, 13 November 2004
+Originally by John Elliott, 13 November, 2004.
+Posted to github and subsequent modifications by trguhq, 2025 and on.
 
 This example program can be used to experiment with IBM's 
 Professional Graphics Controller. PGCTALK lets you send commands to
