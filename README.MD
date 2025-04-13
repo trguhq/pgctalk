@@ -1,4 +1,4 @@
-# PGCBMP
+# PGCTALK
 
 Originally by John Elliott, 13 November, 2004.
 Posted to github and subsequent modifications by trguhq, 2025 and on.
