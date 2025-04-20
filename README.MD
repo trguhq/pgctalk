@@ -1,6 +1,6 @@
 # PGCTALK
 
-Originally by John Elliott, 13 November, 2004.
+Originally by John Elliott, 13 November, 2004, budled with PGCBMP.
 Posted to github and subsequent modifications by trguhq, 2025 and on.
 
 This example program can be used to experiment with IBM's 
